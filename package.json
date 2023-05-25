@@ -1,0 +1,34 @@
+{
+  "name": "@sidneys/required-count",
+  "version": "1.158.0",
+  "description": "Query how often a module has been required by other modules",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/sidneys/required-count",
+  "author": {
+    "name": "sidneys",
+    "email": "sidneys.github.io@outlook.com",
+    "url": "https://bitbucket.org/sidneys"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/sidneys/required-count.git"
+  },
+  "bugs": {
+    "url": "https://bitbucket.org/sidneys/required-count/issues"
+  },
+  "deprecated": false,
+  "engines": {
+    "node": ">= 12.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "os": [
+    "darwin",
+    "win32",
+    "linux"
+  ],
+  "keywords": [
+    "development",
+    "tools"
+  ],
+  "main": "index.js"
+}
