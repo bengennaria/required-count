@@ -1,20 +1,20 @@
 {
-  "name": "@sidneys/required-count",
+  "name": "@bengennaria/required-count",
   "version": "1.158.0",
   "description": "Query how often a module has been required by other modules",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/sidneys/required-count",
+  "homepage": "https://github.com/bengennaria/required-count",
   "author": {
-    "name": "sidneys",
-    "email": "sidneys.github.io@outlook.com",
-    "url": "https://bitbucket.org/sidneys"
+    "name": "bengennaria",
+    "email": "ben.gennaria@gmail.com",
+    "url": "https://github.com/bengennaria"
   },
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/sidneys/required-count.git"
+    "url": "https://github.com/bengennaria/required-count.git"
   },
   "bugs": {
-    "url": "https://bitbucket.org/sidneys/required-count/issues"
+    "url": "https://github.com/bengennaria/required-count/issues"
   },
   "deprecated": false,
   "engines": {
